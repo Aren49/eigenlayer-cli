@@ -2,6 +2,6 @@
   "name": "0xaren.eth",
   "website": "",
   "description": "Solo Operator",
-  "logo": "https://github.com/ethereum/ethereum-org-website/blob/dev/public/assets/eth-glyph-colored.png",
+  "logo": "https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/assets/eth-glyph-colored.png",
   "twitter": ""
 }
